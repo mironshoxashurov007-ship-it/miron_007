@@ -1,0 +1,10 @@
+{
+  "name": "miron-uz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Miron.uz - yangiliklar portali",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
